@@ -1,11 +1,11 @@
 {
   "images": {
-    "icon-small": "http://koding-cdn.s3.amazonaws.com/logos.square/koding.logo.48px.png",
-    "icon-medium": "http://koding-cdn.s3.amazonaws.com/logos.square/koding.logo.96px.png",
-    "icon-large": "http://koding-cdn.s3.amazonaws.com/logos.square/koding.logo.256px.png",
+    "icon-small": "https://koding-cdn.s3.amazonaws.com/logos.square/koding.logo.48px.png",
+    "icon-medium": "https://koding-cdn.s3.amazonaws.com/logos.square/koding.logo.96px.png",
+    "icon-large": "https://koding-cdn.s3.amazonaws.com/logos.square/koding.logo.256px.png",
     "screenshots": [
-      "http://koding-cdn.s3.amazonaws.com/mesos/Koding-IDE.jpg",
-      "http://koding-cdn.s3.amazonaws.com/mesos/Koding-Stack-Editor.jpg"
+      "https://koding-cdn.s3.amazonaws.com/mesos/Koding-IDE.jpg",
+      "https://koding-cdn.s3.amazonaws.com/mesos/Koding-Stack-Editor.jpg"
     ]
   },
   "assets": {

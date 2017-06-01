@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "http://i.imgur.com/QGc420u.png",
-    "icon-medium": "http://i.imgur.com/QGc420u.png",
-    "icon-large": "http://i.imgur.com/QGc420u.png"
+    "icon-small": "https://i.imgur.com/QGc420u.png",
+    "icon-medium": "https://i.imgur.com/QGc420u.png",
+    "icon-large": "https://i.imgur.com/QGc420u.png"
   },
   "assets": {
     "container": {

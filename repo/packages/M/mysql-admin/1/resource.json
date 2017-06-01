@@ -5,7 +5,7 @@
     "icon-large": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-mysql-admin-large.jpg",
    "screenshots": [
      "https://upload.wikimedia.org/wikipedia/commons/6/66/PhpMyAdmin_screenshot_new.png",
-     "http://i1-linux.softpedia-static.com/screenshots/phpMyAdmin_2.png",
+     "https://www.phpmyadmin.net/static/images/screenshots/structure.png",
      "https://www.phpmyadmin.net/static/images/screenshots/monitor.png"
    ]
   },
